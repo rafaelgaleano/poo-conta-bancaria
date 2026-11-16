@@ -1,5 +1,6 @@
 /**
  * CLASSE = a estrutura, o molde. Descreve o que toda conta TEM e FAZ.
+classe usada para controlar atributos e métodos comuns as subclasses.
  * */
 public class Conta implements AutoCloseable {
 
